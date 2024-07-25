@@ -376,6 +376,12 @@ form button {
     margin-right: auto;
 }
 
+.contactform{
+  /* width: 700px; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .borderform{
   padding-left: 5px;
   padding-right: 5px;
